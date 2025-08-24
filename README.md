@@ -29,35 +29,6 @@ Uploading incomplete or buggy code is intentional here, to maintain version cont
 
 The application uses the `urwid` Python library to build an interactive terminal interface composed of buttons, text inputs, and output areas. Users interact with the program through keyboard input and menu buttons to execute Git commands under the hood.
 
----
-
-## Prerequisites
-
-- Python 3.8 or above  
-- Git installed and available in your system PATH  
-
----
-
-## Usage
-
-Use the menu buttons or keyboard shortcuts:  
-
-- Select **Clone Repo** to enter a repository URL to clone  
-- Use **Status** to see current git status of the repo  
-- **Stage File** to stage changes by entering filename  
-- **Commit** to commit staged changes with a message  
-- **Push** to push commit  
-
----
-
-## How This Project Helps Your Workflow
-
-- Keeps your work safe and backed up on GitHub  
-- Provides a public portfolio showing your development process  
-- Makes it easy to resume and continue development later  
-- Demonstrates practical use of Git, Python, and TUI design  
-
----
 
 
 
